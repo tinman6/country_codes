@@ -1,0 +1,23 @@
+code,name,name_zh,category
+TW-CHA,Changhua,彰化縣,county
+TW-CYQ,Chiayi,嘉義縣,county
+TW-HSQ,Hsinchu,新竹縣,county
+TW-HUA,Hualien,花蓮縣,county
+TW-ILA,Yilan,宜蘭縣,county
+TW-KIN,Kinmen,金門縣,county
+TW-LIE,Lienchiang,連江縣,county
+TW-MIA,Miaoli,苗栗縣,county
+TW-NAN,Nantou,南投縣,county
+TW-PEN,Penghu,澎湖縣,county
+TW-PIF,Pingtung,屏東縣,county
+TW-TTT,Taitung,臺東縣,county
+TW-YUN,Yunlin,雲林縣,county
+TW-CYI,Chiayi,嘉義市,city
+TW-HSZ,Hsinchu,新竹市,city
+TW-KEE,Keelung,基隆市,city
+TW-KHH,Kaohsiung,高雄市,special municipality
+TW-NWT,New Taipei,新北市,special municipality
+TW-TAO,Taoyuan,桃園市,special municipality
+TW-TNN,Tainan,臺南市,special municipality
+TW-TPE,Taipei,臺北市,special municipality
+TW-TXG,Taichung,臺中市,special municipality

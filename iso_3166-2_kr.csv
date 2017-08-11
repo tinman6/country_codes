@@ -1,0 +1,18 @@
+code,name,name_ko,category
+KR-11,Seoul,서울특별시,special city
+KR-26,Busan,부산광역시,metropolitan city
+KR-27,Daegu,대구광역시,metropolitan city
+KR-28,Incheon,인천광역시,metropolitan city
+KR-29,Gwangju,광주광역시,metropolitan city
+KR-30,Daejeon,대전광역시,metropolitan city
+KR-31,Ulsan,울산광역시,metropolitan city
+KR-50,Sejong,세종특별자치시,special self-governing city
+KR-41,Gyeonggi,경기도,province
+KR-42,Gangwon,강원도,province
+KR-43,North Chungcheong,충청북도,province
+KR-44,South Chungcheong,충청남도,province
+KR-45,North Jeolla,전라북도,province
+KR-46,South Jeolla,전라남도,province
+KR-47,North Gyeongsang,경상북도,province
+KR-48,South Gyeongsang,경상남도,province
+KR-49,Jeju,제주특별자치도,special self-governing province
